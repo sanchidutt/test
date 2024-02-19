@@ -1,0 +1,14 @@
+img{
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+body{
+    background-color: rgb(137, 130, 130);
+    color: rgb(14, 6, 1);
+}
+h1{
+    color: rgb(114, 79, 26);
+    text-shadow: 4px 1px 1px aliceblue;
+}
